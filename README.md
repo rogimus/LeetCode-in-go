@@ -15,7 +15,6 @@ These are a collection of some of my solutions to LeetCode problems in `golang`.
 | 145 |   Binary Tree - Postorder Traversal |   Binary Tree, Depth First Search, Recursion, Stacks |   0ms-100%, 2mb-57.78% | 
 | 242 |   Valid Anagram |   Unicode/ASCII, dictionaries |   2.7ms-100%, 2.8mb-86.42% | 
 | 203 |   Remove Linked List Elements |   Linked List |   3ms-98.31%, 4.7mb-84.82% | 
-| template |  |  |  | 
 | 104 |   Binary Tree - Maximum Depth |   Recursion, Binary Tree |   0ms-100%, 4.1mb-89.36% | 
 | 141 |   Linked List Cycle |   Slow/Fast algorithm, Floyd's algorithm |   4ms-98.14%, 4.4mb-88.51% | 
 | 101 |   Symmetric Tree |   Binary Tree, recursion |   0ms-100%, 2.9mb-86.98% | 
