@@ -1,5 +1,4 @@
 // Name: Insert in a Binary Search Tree
-// Number: 226
 // Tags: Binary Search Tree, recursion
 // Stats: 16ms-97.70%, 7.2mb-99.65%
 
@@ -33,3 +32,5 @@ func insertIntoBST(root *TreeNode, val int) *TreeNode {
 	}
     return root
 }
+
+

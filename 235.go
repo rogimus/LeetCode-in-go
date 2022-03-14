@@ -1,5 +1,4 @@
 // Name: Lowest Common Ancestor of a Binary Search Tree 
-// Number: 235
 // Tags: Binary Search Depth, 
 // Stats: 16ms-93.05%, 7.1mb-99.58%
 

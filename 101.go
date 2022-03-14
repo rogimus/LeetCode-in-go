@@ -1,5 +1,4 @@
 // Name: Symmetric Tree
-// Number: 101
 // Tags: Binary Tree, recursion
 // Stats: 0ms-100%, 2.9mb-86.98%
 

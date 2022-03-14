@@ -1,5 +1,4 @@
 // Name: Binary Tree - Level Order Traversal
-// Number: 102
 // Tags: Binary Tree, Breadth First Search, Depth First Search, Recursion, Stacks, Queue
 // Stats: 0ms-100%, 2.8mb-89.95%
 

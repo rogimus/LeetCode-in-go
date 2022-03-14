@@ -1,5 +1,4 @@
 // Name: Validate Binary Search Tree
-// Number: 226
 // Tags: Binary Search Tree, Depth First Search, Preorder Traversal 
 // Stats: 16ms-98.87%, 7.4mb-83.62%
 

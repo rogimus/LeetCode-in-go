@@ -1,5 +1,4 @@
 // Name: Invery Binary Tree
-// Number: 226
 // Tags: Binary Tree, recursion
 // Stats: 0ms-100%, 2.1mb-100%
 

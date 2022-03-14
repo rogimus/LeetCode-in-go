@@ -1,5 +1,4 @@
 // Name: Binary Tree - Maximum Depth
-// Number: 104
 // Tags: Recursion, Binary Tree
 // Stats: 0ms-100%, 4.1mb-89.36%
 

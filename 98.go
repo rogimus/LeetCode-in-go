@@ -1,5 +1,4 @@
 // Name: Validate Binary Search Tree
-// Number: 226
 // Tags: Binary Search Tree, Recursion
 // Stats: 3ms-95.17%, 5.1mb-95.75%
 
