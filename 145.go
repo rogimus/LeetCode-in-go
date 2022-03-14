@@ -1,5 +1,4 @@
 // Name: Binary Tree - Postorder Traversal
-// Number: 145
 // Tags: Binary Tree, Depth First Search, Recursion, Stacks
 // Stats: 0ms-100%, 2mb-57.78%
 
